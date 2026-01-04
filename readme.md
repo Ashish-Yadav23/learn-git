@@ -1,4 +1,4 @@
-#learn about git and github
+# Learn about git and github
 
 you are at right place
 
